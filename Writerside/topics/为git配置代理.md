@@ -37,6 +37,10 @@ git config --global core.gitproxy  http://127.0.0.1:10080
     gitproxy = http://127.0.0.1:10080
 ```
 
+> git常用的配置级别分为全局和项目级别，如果是特定项目需要配置代理，
+> 只需要特定项目目录在设置代理，不需要全局配置。当然git用户名和邮箱等信息也一样。
+{style="note"}
+
 <seealso>
    <category ref="external">
        <a href="https://blog.csdn.net/zwhfyy/article/details/130739079">设置代理和取消代理</a>
