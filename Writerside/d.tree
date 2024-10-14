@@ -7,8 +7,10 @@
                  start-page="empty-md-topic.md">
 
     <toc-element topic="empty-md-topic.md"/>
+    <toc-element topic="tmp.md"/>
     <toc-element topic="writerside使用.md">
         <toc-element topic="seealso.md"/>
+        <toc-element topic="tip和note.md"/>
     </toc-element>
     <toc-element topic="问题记录和解决.md">
         <toc-element topic="为git配置代理.md"/>
