@@ -17,6 +17,7 @@
     </toc-element>
     <toc-element topic="问题记录和解决.md">
         <toc-element topic="为git配置代理.md"/>
+        <toc-element topic="本地简易http服务器.md"/>
     </toc-element>
     <toc-element topic="tmp.md"/>
 </instance-profile>
