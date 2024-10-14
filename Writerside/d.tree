@@ -8,6 +8,7 @@
 
     <toc-element topic="empty-md-topic.md"/>
     <toc-element topic="常用指令.md">
+        <toc-element topic="java环境.md"/>
         <toc-element topic="git相关.md"/>
     </toc-element>
     <toc-element topic="writerside使用.md">
