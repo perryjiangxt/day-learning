@@ -13,7 +13,6 @@ git config  user.email "perryjiangxt@gmail.com"
 ### 配置和取消配置代理
 
 ```
-
 #移除设置
 git config --global --unset http.proxy
 git config --global --unset https.proxy
