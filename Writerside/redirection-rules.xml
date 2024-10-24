@@ -10,4 +10,8 @@
         <description>Created after removal of "helloworld" from day-learning</description>
         <accepts>helloworld.html</accepts>
     </rule>
+    <rule id="48f44d1">
+        <description>Created after removal of "git项目使用ssh" from day-learning</description>
+        <accepts>git项目使用ssh.html</accepts>
+    </rule>
 </rules>
