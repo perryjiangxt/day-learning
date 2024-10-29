@@ -20,4 +20,7 @@ git config --global --unset https.proxy
 git config --global https.proxy http://127.0.0.1:10080
 git config --global https.proxy https://127.0.0.1:10080
 
+git config  https.proxy http://127.0.0.1:10080
+git config  https.proxy https://127.0.0.1:10080
+
 ```
